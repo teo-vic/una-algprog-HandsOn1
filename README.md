@@ -2,7 +2,8 @@
 
 ## Menu
 
-- [0 - Sair](#)
+
+
 - [1 - Exercício 1](1.ParOuÍmpar.por)
 - [2 - Exercício 2](2.MaiorDeDois.por)
 - [3 - Exercício 3](3.Calculadoracommenu.por)
