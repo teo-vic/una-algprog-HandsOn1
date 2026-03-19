@@ -12,4 +12,5 @@
 - [7 - Exercício 7](ex7.por)
 - [8 - Exercício 8](ex8.por)
 - [9 - Exercício 9](ex9.por)
-- [10 - Exercício 10](ex10.por)# una-algprog-HandsOn1
+- [10 - Exercício 10](ex10.por)
+  
