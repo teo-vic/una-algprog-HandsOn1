@@ -3,7 +3,7 @@
 ## Menu
 
 - [0 - Sair](#)
-- [1 - Exercício 1](ex1.por)
+- [1 - Exercício 1](ParOuÍmpar.por)
 - [2 - Exercício 2](ex2.por)
 - [3 - Exercício 3](ex3.por)
 - [4 - Exercício 4](ex4.por)
